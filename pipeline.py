@@ -1,4 +1,5 @@
 from dotenv import load_dotenv
+from google.cloud import bigquery   
 import os
 import requests
 import json
